@@ -1,0 +1,27 @@
+.header{
+    align-content: center;
+    
+}
+.container{
+    width: full;
+    text-align: center;
+    height: 100vh;
+    background-color: aqua;
+    position: relative;
+}
+.logo{
+    font-size: 30px;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+    letter-spacing: 10px;
+    top: 50px;
+    right: 50px;
+}
+.film{
+    height: 100px;
+    width: 100px;
+    align-items: center;
+    border-color: black;
+    padding-top: 10px;
+
+}
